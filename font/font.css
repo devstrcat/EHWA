@@ -1,0 +1,114 @@
+@charset "UTF-8";
+
+
+/* 노토 산스 */
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 100;
+    src: local('Noto Sans KR'),
+        url(./Noto_Sans_KR/NotoSansKR-Thin.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Noto Sans KR'),
+        url(./Noto_Sans_KR/NotoSansKR-Light.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Noto Sans KR'),
+        url(./Noto_Sans_KR/NotoSansKR-Regular.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 500;
+    src: local('Noto Sans KR'),
+        url(./Noto_Sans_KR/NotoSansKR-Medium.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Noto Sans KR'),
+        url(./Noto_Sans_KR/NotoSansKR-Bold.otf) format('opentype');
+}
+
+@font-face {
+    font-family: 'Noto Sans KR';
+    font-style: normal;
+    font-weight: 900;
+    src: local('Noto Sans KR'),
+        url(./Noto_Sans_KR/NotoSansKR-Black.otf) format('opentype');
+}
+
+
+
+/* 나눔 고딕 */
+/*Nanum Gothic*/
+@font-face {
+    font-family: 'NanumGothic';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NanumGothic'),
+        url(./nanum-gothic/NanumGothic.otf) format('opentype'),
+        url(./nanum-gothic/NanumGothic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumGothic';
+    font-style: normal;
+    font-weight: 700;
+    src: local('NanumGothic'),
+        url(./nanum-gothic/NanumGothicBold.otf) format('opentype'),
+        url(./nanum-gothic/NanumGothicBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumGothic';
+    font-style: normal;
+    font-weight: 900;
+    src: local('NanumGothic'),
+        url(./nanum-gothic/NanumGothicExtraBold.otf) format('opentype'),
+        url(./nanum-gothic/NanumGothicExtraBold.ttf) format('truetype');
+
+}
+
+
+
+/* 나눔 명조 */
+/* Nanum Nyeongjo */
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style: normal;
+    font-weight: 400;
+    src: local('NanumMyeongjo'),
+        url(./nanum-myeongjo/NanumMyeongjo.otf) format('opentype'),
+        url(./nanum-myeongjo/NanumMyeongjo.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style: normal;
+    font-weight: 700;
+    src: local('NanumMyeongjo'),
+        url(./nanum-myeongjo/NanumMyeongjoBold.otf) format('opentype'),
+        url(./nanum-myeongjo/NanumMyeongjoBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'NanumMyeongjo';
+    font-style: normal;
+    font-weight: 900;
+    src: local('NanumMyeongjo'),
+        url(./nanum-myeongjo/NanumMyeongjoExtraBold.otf) format('opentype'),
+        url(./nanum-myeongjo/NanumMyeongjoExtraBold.ttf) format('truetype');
+}

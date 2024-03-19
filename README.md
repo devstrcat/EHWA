@@ -23,5 +23,4 @@
 - HTML
 - CSS
 - JS
-- Swiper.js# EHWA
-# EHWA
+- Swiper.js
