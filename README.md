@@ -6,7 +6,7 @@
 <a href="mailto:tdj04280@naver.com" target="_blank">여기</a>로 연락바랍니다.
 
  ### 메인 사이트
-<a href="https://ehwa-8r56waaho-devstrcats-projects.vercel.app/" target="_blank">![이미지](img/mainsite.png)
+<a href="https://ehwa.vercel.app/" target="_blank">![이미지](img/mainsite.png)
 </a>
 
 ### 정보
